@@ -5,7 +5,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## 🔗 Links
--[Vercel Project](https://netflix-clone-tau-nine.vercel.app/)
+-[Vercel Project](https://netflix-clone-glendson.vercel.app/)
 
 # :hammer: Project description
 
